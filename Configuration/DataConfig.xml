@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Enviromment>
+    <!-- TimeOut -->
+    <TimeOut>5</TimeOut>
+
+    <!-- Credentials -->
+    <user>admin</user>
+    <password>admin</password>
+
+    <!-- Web -->
+    <BrowserName>Chrome</BrowserName>
+    <url>http://localhost:3000</url>
+    <ImageRepo>./imageRepository/</ImageRepo>
+
+    <!-- API -->
+    <url_api>http://localhost:3000</url_api>
+
+    <!-- Electron -->
+    <ElectronDriverPath>./Drivers/electron.exe</ElectronDriverPath>
+    <ElectronAppPath>C:/Automation/Tools/electron-api-demos-windows/Electron-API-Demos-win32-ia32/Electron-API-Demos.exe</ElectronAppPath>
+
+    <!-- Desktop -->
+    <Calculator_App>Microsoft.WindowsCalculator_8wekyb3d8bbwe!App</Calculator_App>
+    <Appium_Server>http://127.0.0.1:4723</Appium_Server>
+
+    <!-- DB -->
+    <dbURL>jdbc:mysql://remotemysql.com:3306/vV4p1WjwVa</dbURL>
+    <dbUser>vV4p1WjwVa</dbUser>
+    <dbPassword>wQSE6mouVm</dbPassword>
+
+</Enviromment>
